@@ -1,19 +1,10 @@
 {
-  "categories": [
-    { "id": "all", "name": "Tous" },
-    { "id": "mariage", "name": "Mariageeee" },
-    { "id": "fiancailles", "name": "Fiançailles" },
-    { "id": "bapteme", "name": "Baptême" },
-    { "id": "anniversaire", "name": "Anniversaire" },
-    { "id": "babyshower", "name": "Baby Shower" },
-    { "id": "evjf", "name": "EVJF" }
-  ],
   "creations": [
     {
       "id": "1",
       "title": "Panneau Mariage Élégant",
       "description": "Panneau de bienvenue personnalisé pour votre mariage avec design élégant.",
-      "price": 9000,
+      "price": 9,
       "image": "https://images.pexels.com/photos/1824684/pexels-photo-1824684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "category": "mariage",
       "featured": true,
@@ -63,7 +54,8 @@
           "Support en bois inclus",
           "Emballage sécurisé pour la livraison"
         ]
-      }
+      },
+      "date": "2025-05-17"
     },
     {
       "id": "2",
